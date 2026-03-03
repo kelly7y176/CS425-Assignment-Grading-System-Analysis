@@ -1,10 +1,10 @@
 # Online Assignment Grading System: Systems Analysis & Blueprint
 
-## 📋 Project Overview
+## Project Overview
 
 This repository contains the comprehensive systems analysis and architectural blueprint for a Dockerized **Online Assignment Grading System**. This project was developed as part of the **CS425 System Analysis and Design** curriculum to demonstrate proficiency in modern software engineering lifecycles, RESTful API auditing, and containerized deployments.
 
-## 🏗️ Technical Stack
+## Technical Stack
 
 - **Language:** PHP 8.2 (MVC Architecture)
 - **Database:** MySQL 8.0
@@ -12,14 +12,14 @@ This repository contains the comprehensive systems analysis and architectural bl
 - **API Style:** RESTful (JSON)
 - **Testing & Validation:** Postman API Audits & Manual BVA
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `/diagrams`: Level 1 DFDs and Sequence Diagram artifacts.
 - `/docs`: Analysis Report drafts and Meeting Minutes.
 - `source_code.zip`: The target application source code audited for this analysis.
 - `docker-compose.yml`: Infrastructure-as-Code definition for the environment.
 
-## 🚀 Version Control Strategy
+## Version Control Strategy
 
 We follow a **Feature-Branch Workflow**:
 
@@ -29,7 +29,7 @@ We follow a **Feature-Branch Workflow**:
 
 **Commit Convention:** [Conventional Commits](https://www.conventionalcommits.org/) (`docs:`, `feat:`, `fix:`, `refactor:`).
 
-## 👥 Team Members
+## Team Members
 
 - **Wong Wing Laam (22571017)** - Full-stack Developer / Lead
 - **Lam Wai Tung (22671003)** - Project Manager
