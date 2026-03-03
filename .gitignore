@@ -1,0 +1,26 @@
+# --- Word/Office Temp Files ---
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
+
+# --- Docker & Logs ---
+*.log
+.docker/
+# Ignore the local database data to keep the repo clean
+mysql_data/
+
+# --- IDE/Editor Private Folders ---
+.vscode/
+.idea/
+*.swp
+
+# --- Temporary/Drafts ---
+drafts/
+old_versions/
+
+# Note: source_code.zip is NOT ignored as it is a project deliverable
